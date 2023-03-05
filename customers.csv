@@ -1,4 +1,4 @@
-time,new_customers,churn,revenue,region,product,total_ad_spent,production_cost,technical_cost
+date,new_customers,churn,revenue,region,product,total_ad_spent,production_cost,technical_cost
 01-2016,16991,1333,2718560,North America,laptops,1034,14315,4992
 02-2016,19098,1493,3819600,North America,laptops,2915,190683,5595
 03-2016,17826,1069,2370858,North America,laptops,2276,103843,4168
